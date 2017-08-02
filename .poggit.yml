@@ -1,0 +1,7 @@
+projects:
+  libschematic:
+    type: library
+    model: virion
+    libs:
+      - src: sofe/nbtstreams/nbtstreams
+        version: "^0.1"
