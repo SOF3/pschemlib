@@ -2,7 +2,7 @@
 
 /*
  *
- * libschematic
+ * pschemlib
  *
  * Copyright (C) 2017 SOFe
  *
@@ -15,7 +15,7 @@
 
 declare(strict_types=1);
 
-namespace sofe\libschematic;
+namespace sofe\pschemlib;
 
 use pocketmine\item\Item;
 use sofe\nbtstreams\NbtReader;

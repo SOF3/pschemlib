@@ -2,7 +2,7 @@
 
 /*
  *
- * libschematic
+ * pschemlib
  *
  * Copyright (C) 2017 SOFe
  *
@@ -15,14 +15,14 @@
 
 declare(strict_types=1);
 
-namespace sofe\libschematic;
+namespace sofe\pschemlib;
 
 use pocketmine\block\Block;
 use pocketmine\level\Position;
 use pocketmine\math\Vector3;
-use sofe\libschematic\io\BitReader;
-use sofe\libschematic\io\UnsignedByteReader;
 use sofe\nbtstreams\NbtReader;
+use sofe\pschemlib\io\BitReader;
+use sofe\pschemlib\io\UnsignedByteReader;
 
 class SchematicFile{
 	/**

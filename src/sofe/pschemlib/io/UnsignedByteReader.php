@@ -2,7 +2,7 @@
 
 /*
  *
- * libschematic
+ * pschemlib
  *
  * Copyright (C) 2017 SOFe
  *
@@ -15,7 +15,7 @@
 
 declare(strict_types=1);
 
-namespace sofe\libschematic\io;
+namespace sofe\pschemlib\io;
 
 class UnsignedByteReader{
 	/** @var callable */

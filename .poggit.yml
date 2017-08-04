@@ -1,7 +1,8 @@
 projects:
-  libschematic:
+  pschemlib:
     type: library
     model: virion
+    projectId: 753
     libs:
       - src: sofe/nbtstreams/nbtstreams
         version: "^0.1"
