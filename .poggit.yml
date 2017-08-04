@@ -4,5 +4,5 @@ projects:
     model: virion
     projectId: 753
     libs:
-      - src: sofe/nbtstreams/nbtstreams
+      - src: sof3/nbtstreams/nbtstreams
         version: "^0.1"
